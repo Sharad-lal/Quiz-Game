@@ -1,5 +1,6 @@
 # Quiz Game Portfolio
 
+
 Simple browser-based Quiz Game built with plain HTML, CSS and JavaScript.
 
 ## Overview
